@@ -1,16 +1,25 @@
 // REQUIRED FEATURES:
 // 1 - Create a variable called `firstName` and assign it the value of your first name
-let firstName = '';
+let firstName = 'foos';
+firstName = 'foos';
 // 2 - Create a second variable called `lastName` and assign it the value of your last name
+let nameName = 'mahamud';
+lastName = 'mahamud';
 
 // 3 - Create a third variable called `fullName`, assign it the value of your first and last name
+let fullName = 'foos, mahamud';
+fullName = 'foos, mahamud';
 //     (remember, you already have variables for this, can you use those?)
 //     Console log the value of `fullName`
+    console.log('foos, mahamud');
 
 // 4 - Create a variable called `luckyNumber` and assign it the value of your lucky number.
-//     Console log the value of `luckyNumber`
-
+let luckyNumber = 20;
+//  Console log the value of `luckyNumber`
+ console.log('luckyNumber');
+  
 // 5 - Create a variable `introduction` and using the variables from above,
+ let introduCtion = 20;
 //     give it the value of:
 //     'My name is (full name), and I think (lucky number) is a winner!'.
 //     Refer back to the videos if you need help with this one.
